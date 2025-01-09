@@ -336,10 +336,6 @@ body {
   border: 1px solid #8e8f99;
   margin-bottom: 8px;
 }
-.icon-div-above svg {
-  width: 64px;
-  height: 64px;
-}
 .icon-ul-below {
   display: flex;
   justify-content: center;
