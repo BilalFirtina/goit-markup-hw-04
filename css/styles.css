@@ -234,6 +234,7 @@ body {
 }
 .intro {
   padding: 32px 0;
+  text-align: center;
 }
 .bold {
   margin-bottom: 8px;
@@ -242,17 +243,15 @@ body {
   font-weight: 500;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
 }
 .text {
-  margin: 0;
+  margin: 0 0 8px 0;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
   letter-spacing: 0.02em;
-  text-align: left;
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
 }
