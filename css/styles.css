@@ -364,7 +364,7 @@ body {
 .icon-link:focus {
   background-color: var(--hover-color);
 }
-.icon-below {
+.icon-li-below svg {
   width: 16px;
   height: 16px;
   fill: var(--team-background);
